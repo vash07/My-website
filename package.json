@@ -1,0 +1,13 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "Vasanth Maran", 
+  "license": "private",
+  "private" : true
+  
+}
